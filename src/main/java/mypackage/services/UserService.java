@@ -27,7 +27,7 @@ public class UserService {
         User tim = new User();
         tim.setName("Tim");
         tim.setEmpId(7777);
-        tim.setSalary(60000);
+        tim.setSalary(100000);
 
         users.put("Tim", tim);
         users.put("Sam", sam);
