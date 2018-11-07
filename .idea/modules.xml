@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/soapservice.iml" filepath="$PROJECT_DIR$/soapservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soapservice_jaxb2.iml" filepath="$PROJECT_DIR$/.idea/modules/soapservice_jaxb2.iml" group="soapservice" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/soapservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/soapservice_main.iml" group="soapservice" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/soapservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/soapservice_test.iml" group="soapservice" />
     </modules>
